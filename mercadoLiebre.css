@@ -1,0 +1,95 @@
+/*encabezado principal*/
+.encabezadoPrincipal {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    background-color: #EAC926;
+}
+
+.lista1 {
+    font-size: 16px;
+    list-style-type: none;
+
+}
+
+.articulos {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*Cuerpo Central*/
+
+.cuerpoCentral {
+    background-color: #ebebeb;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo1 {
+    font-size: 24px;
+}
+
+.cafetera {
+    background-color: white;
+}
+
+.mcbook {
+    background-color: white;
+}
+
+.celular {
+    background-color: white;
+}
+
+.smartv {
+    background-color: white;
+}
+
+.precios {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.descuentos {
+    font-size: 16px;
+    color: #39b54a;
+}
+
+.descripciones {
+    font-size: 16px;
+}
+
+/*Cuerpo Secundario*/
+
+.cuerpoSecundario {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ebebeb;
+}
+.titulo2 {
+    font-size: 24px;
+}
+
+.fa-truck {
+    color: #39b54a;
+}
+
+/*Cuerpo Final*/
+
+.cuerpoFinal {
+    font-family: 'Roboto', sans-serif;
+}
+
+.copyright {
+    font-size: 11px;
+}
+
+.fa-store {
+    color: blue;
+}
+
+.fa-user-lock {
+    color: blue;
+}
+
+.fa-credit-card {
+    color: blue;
+}
